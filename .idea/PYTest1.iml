@@ -5,6 +5,12 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\srilu\OneDrive\Desktop\PFSDD\PYTest1\PYTest1" />
+  </component>
+  <component name="ReSTService">
+    <option name="DOC_DIR" value="C:\Users\srilu\OneDrive\Desktop\PFSDD\PYTest1\PYTest1" />
+  </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
